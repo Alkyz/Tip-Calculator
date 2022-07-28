@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It was challenging differentiation from outlet and action UI elements.
+It was challenging differentiating the outlet and action UI elements.
 It also took me some time to figure out how the assitant worked in XCode.
 
 ## License
