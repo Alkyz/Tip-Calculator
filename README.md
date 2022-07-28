@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![TipCalculator](https://user-images.githubusercontent.com/90973494/181601467-3eb76b63-bed0-4391-a9e2-dbd01428384d.gif)
+![TipCalculator!](https://user-images.githubusercontent.com/90973494/181602662-2137bf69-89d0-4664-abde-fc001d8414e4.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
